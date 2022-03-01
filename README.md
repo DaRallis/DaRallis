@@ -1,6 +1,7 @@
 Hello, my name is Daniel Ralys and I'm 19 years old.
 
 I came from Czech Republic. (beautiful country, known also for beer 🍺)
+
 📚 - I'm currently studying Secondary Technical School of Electrical Engineering and Computer Science in Ostrava.
 
 🎮 - I really loved games since I was a child and I also liked to explore how certain things in games work like, this basically started my huge journey in game development.
